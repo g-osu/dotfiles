@@ -7,4 +7,5 @@ linux-firmware
 networkmanager
 openssh
 sudo
+ufw
 vim
